@@ -6,7 +6,7 @@ const TimelineItem = ({ title, date, description, image }) => {
       <div className="flex-1">
         <h3 className="text-lg font-semibold">{title}</h3>
         <p className="text-sm text-neutral-500">{date}</p>
-        <p>{description}</p>
+        <p className="pt-3">{description}</p>
       </div>
 
       <div className="w-60 shrink-0">
