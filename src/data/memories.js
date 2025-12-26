@@ -5,6 +5,9 @@ import flea_market from "../assets/year-0/flea-market.JPG"
 import sf_hill from "../assets/year-0/sf-hill.JPG"
 import davis_lawn from "../assets/year-0/davis-lawn.JPG"
 import anniversary_0 from "../assets/year-0/0-anniversary.JPG"
+import first_trip from "../assets/year-0/first-trip.JPG"
+import new_years from "../assets/year-0/new-years.JPG"
+import conservatory from "../assets/year-0/conservatory.JPG"
 
 const memories = [
   {
@@ -58,8 +61,38 @@ const memories = [
     year: 2022,
     entries: [
       {
-        title: "First Trip Together",
-        date: "June 2022",
+        title: "our first new years",
+        date: "January 1, 2022",
+        description: "So many laughs and memories.",
+        image: "/favicon.WEBP",
+      },
+      {
+        title: "our first new years",
+        date: "January 1, 2022",
+        description: "So many laughs and memories.",
+        image: "/favicon.WEBP",
+      },
+      {
+        title: "our first new years",
+        date: "January 1, 2022",
+        description: "So many laughs and memories.",
+        image: "/favicon.WEBP",
+      },
+      {
+        title: "our first new years",
+        date: "January 1, 2022",
+        description: "So many laughs and memories.",
+        image: "/favicon.WEBP",
+      },
+      {
+        title: "our first new years",
+        date: "January 1, 2022",
+        description: "So many laughs and memories.",
+        image: "/favicon.WEBP",
+      },
+      {
+        title: "our first new years",
+        date: "January 1, 2022",
         description: "So many laughs and memories.",
         image: "/favicon.WEBP",
       },
