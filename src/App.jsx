@@ -1,4 +1,5 @@
 import Landing from './components/Landing';
+import Timeline from './components/Timeline';
 import { useState, useEffect } from "react";
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
   return (
     <div className="min-h-screen bg-pastelPink font-vollkorn">
       {isUnlocked ? (
-        <p>unlocked!</p>
+        <Timeline />
       ) : (
         <Landing onUnlock={handleUnlock}/>
       )}
