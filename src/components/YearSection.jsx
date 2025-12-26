@@ -1,4 +1,4 @@
-import React from 'react'
+import TimelineItem from "./TimelineItem";
 
 const YearSection = ({ year, entries, index }) => {
   return (
@@ -7,7 +7,7 @@ const YearSection = ({ year, entries, index }) => {
 
       <div className="space-y-4">
         {entries.map((entry, index) => (
-          
+          <TimelineItem key={index} {...entry} />
         ))}
       </div>
     </section>
