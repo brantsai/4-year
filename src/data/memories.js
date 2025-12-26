@@ -1,13 +1,17 @@
-import first_date from "../assets/year-0/first-date.jpg"
-import second_date from "../assets/year-0/second-date.JPG"
+import first_date from "../assets/year-0/first-date.jpg";
+import second_date from "../assets/year-0/second-date.JPG";
 import zedd from "../assets/year-0/zedd.JPG"
-import flea_market from "../assets/year-0/flea-market.JPG"
+import flea_market from "../assets/year-0/flea-market.JPG";
 import sf_hill from "../assets/year-0/sf-hill.JPG"
-import davis_lawn from "../assets/year-0/davis-lawn.JPG"
-import anniversary_0 from "../assets/year-0/0-anniversary.JPG"
-import first_trip from "../assets/year-0/first-trip.JPG"
-import new_years from "../assets/year-0/new-years.JPG"
-import conservatory from "../assets/year-0/conservatory.JPG"
+import davis_lawn from "../assets/year-0/davis-lawn.JPG";
+import anniversary_0 from "../assets/year-0/0-anniversary.JPG";
+import first_trip from "../assets/year-0/first-trip.JPG";
+import new_years from "../assets/year-0/new-years.JPG";
+import conservatory from "../assets/year-0/conservatory.JPG";
+import academy_of_science from "../assets/year-0/academy-of-science.JPG";
+import ferris_wheel from "../assets/year-0/ferris-wheel.JPG";
+import lantern from "../assets/year-0/lantern.JPG";
+
 
 const memories = [
   {
@@ -63,38 +67,38 @@ const memories = [
       {
         title: "our first new years",
         date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        description: "our first new years! there wasn't much to see at the marina but it was nice spending our first new years together :). and hanging out with frank and vivi together...",
+        image: new_years,
       },
       {
-        title: "our first new years",
-        date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        title: "trips to sf",
+        date: "January 2, 2022",
+        description: "i love going to sf with you! we went to so many places together: conservatory of flowers, academy of science, exploring golden gate park... and we have so many little polaroids to remember those days. let's keep exploring the city together when we move to new york :)",
+        image: conservatory,
       },
       {
-        title: "our first new years",
-        date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        title: "academy of science",
+        date: "January 16, 2022",
+        description: "more polaroids because they look pretty :D i'm so glad you love zoos & aquariums just as much as me. i could spend all day at the zoo with you just looking at animals and fishies together.",
+        image: academy_of_science,
       },
       {
-        title: "our first new years",
-        date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        title: "more polaroids",
+        date: "January 22, 2022",
+        description: "more polaroids! let's go on a ferris wheel together some day.",
+        image: ferris_wheel,
       },
       {
-        title: "our first new years",
-        date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        title: "first trip together + your bday!",
+        date: "March 25, 2022",
+        description: "our first trip as a couple! we got our first airbnb together in LA and celebrated your 20th birthday at beyond wonderland XD. i'm happy i got to show you around SB too and all the places i used to visit in college. also just a fun little milestone for our relationship. our first birthdays together and first trip. the start of many fun trips with each other :) happy birthday baby!",
+        image: first_trip,
       },
       {
-        title: "our first new years",
-        date: "January 1, 2022",
-        description: "So many laughs and memories.",
-        image: "/favicon.WEBP",
+        title: "lantern festival",
+        date: "October 8, 2022",
+        description: "this is us at the water lantern festival! this was such a beautiful experience and i'm so glad we were able to share it together. i loved releasing our little lanterns in the water and seeing them light up at night. let's do a sky paper lantern festival next time :)",
+        image: lantern,
       },
     ],
   },
